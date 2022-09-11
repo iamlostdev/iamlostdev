@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm intLostDev</h1>
-<h3 align="center">A passionate frontend developer from: USA</h3>
+<h3 align="center">A passionate developer from: USA</h3>
 
 <p align="left"> <a href="https://twitter.com/int_lost_dev" target="blank"><img src="https://img.shields.io/twitter/follow/int_lost_dev?logo=twitter&style=for-the-badge" alt="int_lost_dev" /></a> </p>
 

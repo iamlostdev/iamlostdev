@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LostDev</h1>
+<h1 align="center">Hi 👋, I'm Memeasism</h1>
 <h3 align="center">A passionate developer from: USA</h3>
 
 - 🔭 I’m currently working on [Memix](https://github.com/intLostDev/Memix)
